@@ -6,15 +6,15 @@ Proyecto-amigo-secreto-Alura-Latam-
 
 ✨ Funcionalidades principales
 📝 Agregar nombres: Ingresa los nombres de tus amigos en tiempo real.
-image
+
 
 🛡️ Validación de entrada: Evita campos vacíos con alertas amigables.
 
-image
+
 
 👀 Visualización de lista: Mira todos los nombres ingresados en una lista clara.
 
-image
+
 
 🎲 Sorteo aleatorio: ¡Un solo clic para descubrir al afortunado!
 
