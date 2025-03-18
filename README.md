@@ -1,7 +1,6 @@
 # challenge-amigo-Secreto-alura
 Este es mi primer trabajo producto de la actividad del reto amigo secreto de alura
-Proyecto-amigo-secreto-Alura-Latam-
-🎄 Amigo Secreto - Sorteo Aleatorio
+
 ¡Bienvenido a Amigo Secreto! Una aplicación web sencilla y divertida para organizar sorteos de "amigos secretos" entre tu grupo. Ideal para eventos, Navidad o cualquier ocasión especial.
 
 ✨ Funcionalidades principales
